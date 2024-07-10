@@ -43,10 +43,6 @@ http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 http://[2409:8087:1a0b:df::4013]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
 #EXTINF:-1 tvg-id="中国教育4台" tvg-name="CETV4" tvg-logo="https://river2718.github.io/logos/CETV4.png" group-title="央视频道" catchup="append" catchup-source="?playseek={utc:YmdHMS}-{utcend:YmdHMS}" catchup-days="7",CETV-4
 http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
-#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://river2718.github.io/logos/CGTN.png" group-title="央视频道" catchup="append" catchup-source="?playseek={utc:YmdHMS}-{utcend:YmdHMS}" catchup-days="7",CGTN
-http://live.cgtn.com/1000/prog_index.m3u8
-#EXTINF:-1 tvg-id="CGTN纪录" tvg-name="CGTN纪录" tvg-logo="https://river2718.github.io/logos/CGTN纪录.png" group-title="央视频道" catchup="append" catchup-source="&playseek={utc:YmdHMS}-{utcend:YmdHMS}" catchup-days="7",CGTN纪录
-http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000528/index.m3u8?IAS
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://river2718.github.io/logos/北京卫视.png" group-title="卫视频道" catchup="append" catchup-source="?playseek={utc:YmdHMS}-{utcend:YmdHMS}" catchup-days="7",北京卫视
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://river2718.github.io/logos/湖南卫视.png" group-title="卫视频道" catchup="append" catchup-source="?playseek={utc:YmdHMS}-{utcend:YmdHMS}" catchup-days="7",湖南卫视
@@ -117,8 +113,6 @@ http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000193/ind
 http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://river2718.github.io/logos/凤凰资讯.png" group-title="港澳频道" catchup="append" catchup-source="?playseek={utc:YmdHMS}-{utcend:YmdHMS}" catchup-days="7",凤凰资讯
 http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
-#EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://river2718.github.io/logos/凤凰香港.png" group-title="港澳频道" catchup="append" catchup-source="?playseek={utc:YmdHMS}-{utcend:YmdHMS}" catchup-days="7",凤凰香港
-http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
 #EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://river2718.github.io/logos/CHC动作电影.png" group-title="数字频道" catchup="append" catchup-source="?playseek={utc:YmdHMS}-{utcend:YmdHMS}" catchup-days="7",CHC动作电影
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380763222d00/index.m3u8?m3u8_level=2
 #EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://river2718.github.io/logos/CHC家庭影院.png" group-title="数字频道" catchup="append" catchup-source="?playseek={utc:YmdHMS}-{utcend:YmdHMS}" catchup-days="7",CHC家庭影院
@@ -177,23 +171,3 @@ http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380788ba7bed/index.m
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638078be5d654/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA0MVaBO3fffRWKM%2FzNpNYjRBAiSJylXYBAiox0V94ejMfwEtXXuH8b8M%2F%2FDznZB61s
 #EXTINF:-1 tvg-id="文物宝库" tvg-name="文物宝库" tvg-logo="https://river2718.github.io/logos/文物宝库.png" group-title="数字频道" catchup="append" catchup-source="&playseek={utc:YmdHMS}-{utcend:YmdHMS}" catchup-days="7",文物宝库
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638078a346161/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA199v9hZiIrZ%2B5X675R6%2FGDjgcqn5UaJ6D814KM9%2FvF7QwvFfeEXMAK7LltfEC%2FKQQ
-#EXTINF:-1 tvg-id="上海新闻综合" tvg-name="上海新闻" tvg-logo="https://river2718.github.io/logos/上海新闻.png" group-title="上海频道" catchup="append" catchup-source="&playseek={utc:YmdHMS}-{utcend:YmdHMS}" catchup-days="7",上海新闻综合
-http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000005/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000005&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://river2718.github.io/logos/五星体育.png" group-title="上海频道" catchup="append" catchup-source="&playseek={utc:YmdHMS}-{utcend:YmdHMS}" catchup-days="7",五星体育
-http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-id="上视外语" tvg-name="上海外语" tvg-logo="https://river2718.github.io/logos/上海外语.png" group-title="上海频道" catchup="append" catchup-source="&playseek={utc:YmdHMS}-{utcend:YmdHMS}" catchup-days="7",上海ICS外语
-http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000001/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000001&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-id="东方影视" tvg-name="东方影视" tvg-logo="https://river2718.github.io/logos/东方影视.png" group-title="上海频道" catchup="append" catchup-source="&playseek={utc:YmdHMS}-{utcend:YmdHMS}" catchup-days="7",东方影视
-http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000013/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000013&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-id="上海都市" tvg-name="上海都市" tvg-logo="https://river2718.github.io/logos/上海都市.png" group-title="上海频道" catchup="append" catchup-source="&playseek={utc:YmdHMS}-{utcend:YmdHMS}" catchup-days="7",上海都市
-http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000012/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000012&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-id="CNA" tvg-name="CNA" tvg-logo="https://river2718.github.io/logos/CNA.png" group-title="国际频道" catchup="append" catchup-source="?playseek={utc:YmdHMS}-{utcend:YmdHMS}" catchup-days="7",CNA
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 tvg-id="AlJazeera" tvg-name="AlJazeera" tvg-logo="https://river2718.github.io/logos/AlJazeera.png" group-title="国际频道" catchup="append" catchup-source="?playseek={utc:YmdHMS}-{utcend:YmdHMS}" catchup-days="7",AlJazeera
-http://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:-1 tvg-id="Arirang_TV" tvg-name="Arirang_TV" tvg-logo="https://river2718.github.io/logos/Arirang_TV.png" group-title="国际频道" catchup="append" catchup-source="?playseek={utc:YmdHMS}-{utcend:YmdHMS}" catchup-days="7",Arirang TV
-https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
-#EXTINF:-1 tvg-id="RT_News" tvg-name="RT_News" tvg-logo="https://river2718.github.io/logos/RT_News.png" group-title="国际频道" catchup="append" catchup-source="?playseek={utc:YmdHMS}-{utcend:YmdHMS}" catchup-days="7",RT News
-https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
-#EXTINF:-1 tvg-id="RT_Documentary" tvg-name="RT_Documentary" tvg-logo="https://river2718.github.io/logos/RT_Documentary.png" group-title="国际频道" catchup="append" catchup-source="?playseek={utc:YmdHMS}-{utcend:YmdHMS}" catchup-days="7",RT Documentary
-https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
