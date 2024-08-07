@@ -65,6 +65,8 @@ http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 http://[2409:8087:1a0b:df::4001]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225624/index.m3u8
 #EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://river2718.github.io/logos/内蒙古卫视.png" group-title="卫星频道;内蒙古频道" catchup="default" catchup-source="http://[2409:8087:1a0b:df::4017]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225634/index.m3u8?playseek={utc:YmdHMS}-{utcend:YmdHMS}",内蒙古卫视
 http://[2409:8087:1a0b:df::4017]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225634/index.m3u8
+#EXTINF:-1 tvg-id="内蒙古蒙语" tvg-name="内蒙古蒙语卫视" tvg-logo="https://river2718.github.io/logos/内蒙古蒙语卫视.png" group-title="卫星频道;内蒙古频道",内蒙古蒙语卫视
+https://livestream-bt.nmtv.cn/nmtv/2315general.m3u8?txSecret=e2b255285dd119a92c8aa5cdf00f8b84&txTime=771EF880
 #EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://river2718.github.io/logos/辽宁卫视.png" group-title="卫星频道" catchup="default" catchup-source="http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226546/index.m3u8?playseek={utc:YmdHMS}-{utcend:YmdHMS}",辽宁卫视
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226546/index.m3u8
 #EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://river2718.github.io/logos/吉林卫视.png" group-title="卫星频道" catchup="default" catchup-source="http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226397/index.m3u8?playseek={utc:YmdHMS}-{utcend:YmdHMS}",吉林卫视
