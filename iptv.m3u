@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://epg.112114.eu.org/pp.xml"
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://river2718.github.io/logos/CCTV1.png" group-title="卫星频道;央视频道",CCTV-1 综合
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://river2718.github.io/logos/CCTV1.png" group-title="卫星频道;央视频道" catchup="append" catchup-source="?playseek={utc:YmdHMS}-{utcend:YmdHMS}",CCTV-1 综合
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226559/index.m3u8
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://river2718.github.io/logos/CCTV2.png" group-title="卫星频道;央视频道",CCTV-2 财经
 http://[2409:8087:74d9:21::6]:80/270000001322/69900158041111100000002135/index.m3u8
@@ -56,18 +56,18 @@ http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226155/index.
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://river2718.github.io/logos/江苏卫视.png" group-title="卫星频道",江苏卫视
 http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226157/index.m3u8
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://river2718.github.io/logos/浙江卫视.png" group-title="卫星频道" catchup="default" catchup-source="http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226339/index.m3u8?playseek={utc:YmdHMS}-{utcend:YmdHMS}",浙江卫视
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8
+http://[2409:8087:74d9:21::6]:80/270000001128/9900000531/index.m3u8
 #EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://river2718.github.io/logos/安徽卫视.png" group-title="卫星频道",安徽卫视
 http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226205/index.m3u8
 #EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://river2718.github.io/logos/东南卫视.png" group-title="卫星频道" catchup="append" catchup-source="?playseek={utc:YmdHMS}-{utcend:YmdHMS}",东南卫视
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226341/index.m3u8
 #EXTINF:-1 tvg-id="厦门卫视" tvg-name="厦门卫视" tvg-logo="https://river2718.github.io/logos/厦门卫视.png" group-title="卫星频道",厦门卫视
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000005000266006/1.m3u8
-#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://river2718.github.io/logos/江西卫视.png" group-title="卫星频道" catchup="append" catchup-source="?playseek={utc:YmdHMS}-{utcend:YmdHMS}",江西卫视
+#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://river2718.github.io/logos/江西卫视.png" group-title="卫星频道",江西卫视
 http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226207/index.m3u8
-#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://river2718.github.io/logos/山东卫视.png" group-title="卫星频道",山东卫视
+#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://river2718.github.io/logos/山东卫视.png" group-title="卫星频道" catchup="default" catchup-source="http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226456/index.m3u8?playseek={utc:YmdHMS}-{utcend:YmdHMS}",山东卫视
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226456/index.m3u8
-#EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://river2718.github.io/logos/河南卫视.png" group-title="卫星频道" catchup="append" catchup-source="?playseek={utc:YmdHMS}-{utcend:YmdHMS}",河南卫视
+#EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://river2718.github.io/logos/河南卫视.png" group-title="卫星频道",河南卫视
 http://[2409:8087:74d9:21::6]:80/270000001128/9900000027/index.m3u8
 #EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://river2718.github.io/logos/湖北卫视.png" group-title="卫星频道" catchup="default" catchup-source="http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226477/index.m3u8?playseek={utc:YmdHMS}-{utcend:YmdHMS}",湖北卫视
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226477/index.m3u8
@@ -78,17 +78,17 @@ http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226180/index.
 #EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://river2718.github.io/logos/深圳卫视.png" group-title="卫星频道",深圳卫视
 http://[2409:8087:74d9:21::6]:80/270000001322/69900158041111100000002140/index.m3u8
 #EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://river2718.github.io/logos/广西卫视.png" group-title="卫星频道" catchup="default" catchup-source="http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226549/index.m3u8?playseek={utc:YmdHMS}-{utcend:YmdHMS}",广西卫视
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226549/index.m3u8
+http://[2409:8087:74d9:21::6]:80/270000001128/9900000034/index.m3u8
 #EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://river2718.github.io/logos/海南卫视.png" group-title="卫星频道" catchup="append" catchup-source="?playseek={utc:YmdHMS}-{utcend:YmdHMS}",海南卫视
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226465/index.m3u8
+http://[2409:8087:74d9:21::6]:80/270000001128/9900000037/index.m3u8
 #EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://river2718.github.io/logos/重庆卫视.png" group-title="卫星频道",重庆卫视
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8
+http://[2409:8087:74d9:21::6]:80/270000001128/9900000517/index.m3u8
 #EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://river2718.github.io/logos/四川卫视.png" group-title="卫星频道",四川卫视
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226338/index.m3u8
+http://[2409:8087:74d9:21::6]:80/270000001128/9900000025/index.m3u8
 #EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://river2718.github.io/logos/贵州卫视.png" group-title="卫星频道" catchup="append" catchup-source="?playseek={utc:YmdHMS}-{utcend:YmdHMS}",贵州卫视
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226474/index.m3u8
+http://[2409:8087:74d9:21::6]:80/270000001128/9900000036/index.m3u8
 #EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://river2718.github.io/logos/云南卫视.png" group-title="卫星频道",云南卫视
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010119/1.m3u8
+http://[2409:8087:74d9:21::6]:80/270000001128/9900000035/index.m3u8
 #EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://river2718.github.io/logos/西藏卫视.png" group-title="卫星频道",西藏卫视
 http://[2409:8087:5e00:24::1e]:6060/000000001000/6603041244077933770/1.m3u8
 #EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://river2718.github.io/logos/陕西卫视.png" group-title="卫星频道",陕西卫视
