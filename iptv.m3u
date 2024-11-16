@@ -27,7 +27,7 @@ http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226541/index.
 http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226436/index.m3u8
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://river2718.github.io/logos/CCTV13.png" group-title="卫星频道;央视频道",CCTV-13 新闻
 http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226438/index.m3u8
-#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://river2718.github.io/logos/CCTV14.png" group-title="卫星频道;央视频道;少儿频道" catchup="append" catchup-source="?playseek={utc:YmdHMS}-{utcend:YmdHMS}",CCTV-14 少儿
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://river2718.github.io/logos/CCTV14.png" group-title="卫星频道;央视频道;少儿频道" catchup="default" catchup-source="http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225732/index.m3u8?playseek={utc:YmdHMS}-{utcend:YmdHMS}",CCTV-14 少儿
 http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
 #EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://river2718.github.io/logos/CCTV15.png" group-title="卫星频道;央视频道",CCTV-15 音乐
 http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226616/index.m3u8
@@ -38,7 +38,7 @@ http://[2409:8087:74d9:21::9]:80/270000001128/index.m3u8?cmcc_cid=9900000513
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://river2718.github.io/logos/北京卫视.png" group-title="卫星频道",北京卫视
 http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226739/index.m3u8
 #EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://river2718.github.io/logos/天津卫视.png" group-title="卫星频道" catchup="default" catchup-source="http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226459/index.m3u8?playseek={utc:YmdHMS}-{utcend:YmdHMS}",天津卫视
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226459/index.m3u8
+http://[2409:8087:74d9:21::6]:80/270000001128/9900000530/index.m3u8
 #EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://river2718.github.io/logos/河北卫视.png" group-title="卫星频道",河北卫视
 http://[2409:8087:74d9:21::6]:80/270000001128/9900000057/index.m3u8
 #EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://river2718.github.io/logos/山西卫视.png" group-title="卫星频道",山西卫视
@@ -47,7 +47,7 @@ http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000021220/1.m3u8
 https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=35f2dd39972cede5222c6bd2c0efe24b&txTime=77395680
 #EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://river2718.github.io/logos/辽宁卫视.png" group-title="卫星频道",辽宁卫视
 http://[2409:8087:74d9:21::6]:80/270000001322/69900158041111100000002201/index.m3u8
-#EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://river2718.github.io/logos/吉林卫视.png" group-title="卫星频道",吉林卫视
+#EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://river2718.github.io/logos/吉林卫视.png" group-title="卫星频道" catchup="append" catchup-source="?playseek={utc:YmdHMS}-{utcend:YmdHMS}",吉林卫视
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226397/index.m3u8
 #EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://river2718.github.io/logos/黑龙江卫视.png" group-title="卫星频道",黑龙江卫视
 http://[2409:8087:74d9:21::6]:80/270000001128/9900000521/index.m3u8
@@ -139,8 +139,6 @@ http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226203/index.
 http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000010000026105/1.m3u8
 #EXTINF:-1 tvg-id="七彩戏剧" tvg-name="七彩戏剧" tvg-logo="https://river2718.github.io/logos/七彩戏剧.png" group-title="卫星频道;付费频道;上海频道",七彩戏剧
 http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000010/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000010&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-id="茶" tvg-name="茶" tvg-logo="https://river2718.github.io/logos/茶.png" group-title="卫星频道;付费频道;湖南频道",茶
-http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031209/1.m3u8
 #EXTINF:-1 tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://river2718.github.io/logos/快乐垂钓.png" group-title="卫星频道;付费频道;湖南频道",快乐垂钓
 http://[2409:8087:5e08:24::11]:6610/000000001000/5000000011000031206/index.m3u8?channel-id=bestzb&Contentid=5000000011000031206&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="求索纪录" tvg-name="求索纪录" tvg-logo="https://river2718.github.io/logos/求索纪录.png" group-title="数字频道",求索纪录
