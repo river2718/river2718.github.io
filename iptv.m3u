@@ -42,12 +42,12 @@ http://[2409:8087:74d9:21::6]:80/270000001128/9900000530/index.m3u8
 #EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://river2718.github.io/logos/河北卫视.png" group-title="卫星频道",河北卫视
 http://[2409:8087:74d9:21::6]:80/270000001128/9900000057/index.m3u8
 #EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://river2718.github.io/logos/山西卫视.png" group-title="卫星频道",山西卫视
-http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000021220/1.m3u8
+http://[2409:8087:74d9:21::9]:80/270000001128/9900000053/index.m3u8
 #EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://river2718.github.io/logos/内蒙古卫视.png" group-title="卫星频道",内蒙古卫视
 https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=35f2dd39972cede5222c6bd2c0efe24b&txTime=77395680
 #EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://river2718.github.io/logos/辽宁卫视.png" group-title="卫星频道",辽宁卫视
 http://[2409:8087:74d9:21::6]:80/270000001322/69900158041111100000002201/index.m3u8
-#EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://river2718.github.io/logos/吉林卫视.png" group-title="卫星频道" catchup="append" catchup-source="?playseek={utc:YmdHMS}-{utcend:YmdHMS}",吉林卫视
+#EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://river2718.github.io/logos/吉林卫视.png" group-title="卫星频道",吉林卫视
 http://[2409:8087:74d9:21::6]:80/270000001128/9900000030/index.m3u8
 #EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://river2718.github.io/logos/黑龙江卫视.png" group-title="卫星频道",黑龙江卫视
 http://[2409:8087:74d9:21::6]:80/270000001128/9900000521/index.m3u8
