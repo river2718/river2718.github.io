@@ -28,7 +28,7 @@ http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226436/index.
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://river2718.github.io/logos/CCTV13.png" group-title="卫星频道;央视频道",CCTV-13 新闻
 http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226438/index.m3u8
 #EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://river2718.github.io/logos/CCTV14.png" group-title="卫星频道;央视频道;少儿频道" catchup="default" catchup-source="http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225732/index.m3u8?playseek={utc:YmdHMS}-{utcend:YmdHMS}",CCTV-14 少儿
-http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
+http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000323/index.m3u8?IASHttpSessionId=
 #EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://river2718.github.io/logos/CCTV15.png" group-title="卫星频道;央视频道",CCTV-15 音乐
 http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226616/index.m3u8
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://river2718.github.io/logos/CCTV16.png" group-title="卫星频道;央视频道",CCTV-16 奥林匹克
