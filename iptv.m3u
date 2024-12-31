@@ -123,6 +123,8 @@ http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000025964/1.m3u8
 http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031113/1.m3u8
 #EXTINF:-1 tvg-id="东方财经" tvg-name="东方财经" tvg-logo="https://river2718.github.io/logos/东方财经.png" group-title="卫星频道;付费频道;上海频道",东方财经
 http://[2409:8087:5e01:24::8]:6610/000000001000/2000000002000000090/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000090&IASHttpSessionId=OTT19019320240419154124000281
+#EXTINF:-1 tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://river2718.github.io/logos/游戏风云.png" group-title="卫星频道;付费频道;上海频道",游戏风云
+http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031114/1.m3u8
 #EXTINF:-1 tvg-id="乐游" tvg-name="乐游" tvg-logo="https://river2718.github.io/logos/乐游.png" group-title="卫星频道;付费频道;上海频道",乐游
 http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031112/1.m3u8
 #EXTINF:-1 tvg-id="法治天地" tvg-name="法治天地" tvg-logo="https://river2718.github.io/logos/法治天地.png" group-title="卫星频道;付费频道;上海频道",法治天地
@@ -155,3 +157,9 @@ http://[2409:8087:5e01:24::8]:6610/000000001000/2000000004000000008/index.m3u8?s
 http://[2409:8087:5e08:24::2]:6610/000000001000/1000000004000021734/index.m3u8?channel-id=ystenlive&Contentid=1000000004000021734&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="黑莓电影" tvg-name="黑莓电影" tvg-logo="https://river2718.github.io/logos/黑莓电影.png" group-title="数字频道",黑莓电影
 http://[2409:8087:5e08:24::2]:6610/000000001000/1000000004000019624/index.m3u8?channel-id=ystenlive&Contentid=1000000004000019624&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="睛彩竞技" tvg-name="睛彩竞技" tvg-logo="https://river2718.github.io/logos/睛彩竞技.png" group-title="数字频道",睛彩竞技
+http://[2409:8087:74d6:22::7]:6410/270000001128/9900000119/index.m3u8?
+#EXTINF:-1 tvg-id="睛彩篮球" tvg-name="睛彩篮球" tvg-logo="https://river2718.github.io/logos/睛彩篮球.png" group-title="数字频道",睛彩篮球
+http://[2409:8087:74d6:22::7]:6410/270000001128/9900000118/index.m3u8?
+#EXTINF:-1 tvg-id="睛彩青少" tvg-name="睛彩青少" tvg-logo="https://river2718.github.io/logos/睛彩青少.png" group-title="数字频道",睛彩青少
+http://[2409:8087:74d6:22::7]:6410/270000001128/9900000120/index.m3u8?
