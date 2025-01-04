@@ -54,6 +54,9 @@
 	<programme channel="4K综艺" start="20250105023400 +0800" stop="20250105032600 +0800">
 		<title lang="zh">小小的追球20200115</title>
 	</programme>
+	<programme channel="4K综艺" start="20250105032600 +0800" stop="20250105043000 +0800">
+		<title lang="zh">小小的追球20200121</title>
+	</programme>
 	<channel id="BTV体育">
 		<display-name lang="zh">BTV体育</display-name>
 	</channel>
@@ -40869,6 +40872,9 @@
 	<programme channel="纯享4K" start="20250105024300 +0800" stop="20250105031300 +0800">
 		<title lang="zh">寻古中国4K 玉石记b7玉琢华章</title>
 	</programme>
+	<programme channel="纯享4K" start="20250105031300 +0800" stop="20250105034300 +0800">
+		<title lang="zh">寻古中国4K 玉石记b7神玉寻踪</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -50493,6 +50499,9 @@
 	<programme channel="黑莓动画" start="20250105023900 +0800" stop="20250105033000 +0800">
 		<title lang="zh">03_星辰变 第一季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250105033000 +0800" stop="20250105041800 +0800">
+		<title lang="zh">23_蓝色监狱</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -50790,6 +50799,9 @@
 	<programme channel="newtv超级综艺" start="20250105022600 +0800" stop="20250105031600 +0800">
 		<title lang="zh">勇者之战</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250105031600 +0800" stop="20250105043300 +0800">
+		<title lang="zh">星光大道</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -50823,6 +50835,9 @@
 	<programme channel="newtv超级电视剧" start="20250105023600 +0800" stop="20250105031800 +0800">
 		<title lang="zh">29_幸福有配方</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250105031800 +0800" stop="20250105035900 +0800">
+		<title lang="zh">30_幸福有配方</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -50837,6 +50852,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20250105023100 +0800" stop="20250105031100 +0800">
 		<title lang="zh">47_北国英雄</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20250105031100 +0800" stop="20250105035200 +0800">
+		<title lang="zh">48_北国英雄</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -50853,6 +50871,9 @@
 	<programme channel="newtv精品纪录" start="20250105021700 +0800" stop="20250105030300 +0800">
 		<title lang="zh">声音传奇</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250105030300 +0800" stop="20250105034300 +0800">
+		<title lang="zh">智能中国b7智慧城市</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -50868,6 +50889,9 @@
 	<programme channel="newtv古装剧场" start="20250105024100 +0800" stop="20250105032500 +0800">
 		<title lang="zh">05_九流霸主</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20250105032500 +0800" stop="20250105041200 +0800">
+		<title lang="zh">30_天地姻缘七仙女</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -50882,6 +50906,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20250105023500 +0800" stop="20250105032200 +0800">
 		<title lang="zh">09_壮丁也是兵</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20250105032200 +0800" stop="20250105040900 +0800">
+		<title lang="zh">10_壮丁也是兵</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -50907,6 +50934,9 @@
 	<programme channel="newtv热播精选" start="20250105023000 +0800" stop="20250105031700 +0800">
 		<title lang="zh">21_新居之约</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20250105031700 +0800" stop="20250105040200 +0800">
+		<title lang="zh">22_新居之约</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -50918,6 +50948,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20250105021800 +0800" stop="20250105030400 +0800">
 		<title lang="zh">09_千金保姆</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20250105030400 +0800" stop="20250105035000 +0800">
+		<title lang="zh">10_千金保姆</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -50945,6 +50978,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20250105023700 +0800" stop="20250105032300 +0800">
 		<title lang="zh">04_我的爱对你说</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20250105032300 +0800" stop="20250105035000 +0800">
+		<title lang="zh">棕熊的秘密世界（上）</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -50985,6 +51021,9 @@
 	<programme channel="newtv军事评论" start="20250105024600 +0800" stop="20250105031200 +0800">
 		<title lang="zh">共筑和平 共享未来</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250105031200 +0800" stop="20250105033900 +0800">
+		<title lang="zh">铁流奔腾</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -51003,6 +51042,12 @@
 	<programme channel="newtv炫舞未来" start="20250105025000 +0800" stop="20250105030100 +0800">
 		<title lang="zh">我爱祖国的蓝天-饶子龙（完整版）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20250105030100 +0800" stop="20250105031700 +0800">
+		<title lang="zh">青苹果乐园—毕刚（完整版）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250105031700 +0800" stop="20250105043400 +0800">
+		<title lang="zh">七小侠带来武术表演 刘羽萱翻唱《我恨我痴心》 场面超飒！（20241130）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -51011,6 +51056,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20250105021000 +0800" stop="20250105032600 +0800">
 		<title lang="zh">现在就出发第2季</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20250105032600 +0800" stop="20250105041200 +0800">
+		<title lang="zh">40_一代枭雄</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
