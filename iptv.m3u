@@ -83,8 +83,6 @@ http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031203/1.m3u8
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000025964/1.m3u8
 #EXTINF:-1 tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://river2718.github.io/logos/动漫秀场.png" group-title="卫星频道;付费频道;上海频道;少儿频道",动漫秀场
 http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031113/1.m3u8
-#EXTINF:-1 tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://river2718.github.io/logos/游戏风云.png" group-title="卫星频道;付费频道;上海频道",游戏风云
-http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031114/1.m3u8
 #EXTINF:-1 tvg-id="乐游" tvg-name="乐游" tvg-logo="https://river2718.github.io/logos/乐游.png" group-title="卫星频道;付费频道;上海频道",乐游
 http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031112/1.m3u8
 #EXTINF:-1 tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://river2718.github.io/logos/都市剧场.png" group-title="卫星频道;付费频道;上海频道",都市剧场
