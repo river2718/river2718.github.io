@@ -49,7 +49,7 @@ http://[2409:8087:5e00:24::20]:6610/000000001000/1/1000000005000265022/index.m3u
 http://[2409:8087:5e00:24::20]:6610/000000001000/1/5000000011000031117/index.m3u8?channel-id=bestzb&Contentid=5000000011000031117&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://river2718.github.io/logos/黑龙江卫视.png" group-title="卫星频道",黑龙江卫视
 http://[2409:8087:5e00:24::20]:6610/000000001000/1/1000000005000265029/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265029&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://river2718.github.io/logos/东方卫视.png" group-title="卫星频道" catchup="default" catchup-source="http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/TVOD/88888888/224/3221225797/index.m3u8?playseek={utc:YmdHMS}-{utcend:YmdHMS}",东方卫视
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://river2718.github.io/logos/东方卫视.png" group-title="卫星频道;上海频道" catchup="default" catchup-source="http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/TVOD/88888888/224/3221225797/index.m3u8?playseek={utc:YmdHMS}-{utcend:YmdHMS}",东方卫视
 http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225797/index.m3u8
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://river2718.github.io/logos/江苏卫视.png" group-title="卫星频道" catchup="default" catchup-source="http://[2409:8087:7008:20::2]:80/dbiptv.sn.chinamobile.com/TVOD/88888888/224/3221225800/index.m3u8?playseek={utc:YmdHMS}-{utcend:YmdHMS}",江苏卫视
 http://[2409:8087:7008:20::2]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225800/index.m3u8
@@ -89,11 +89,17 @@ http://[2409:8087:5e00:24::20]:6610/000000001000/1/5000000011000031120/index.m3u
 http://[2409:8087:5e00:24::20]:6610/000000001000/1/5000000011000031121/index.m3u8?channel-id=bestzb&Contentid=5000000011000031121&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://river2718.github.io/logos/青海卫视.png" group-title="卫星频道",青海卫视
 http://[2409:8087:5e00:24::20]:6610/000000001000/1/5000000006000040015/index.m3u8?channel-id=bestzb&Contentid=5000000006000040015&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="哈哈炫动" tvg-name="哈哈炫动" tvg-logo="https://river2718.github.io/logos/哈哈炫动.png" group-title="卫星频道;上海频道",哈哈炫动
+http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000000172/1.m3u8
+#EXTINF:-1 tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://river2718.github.io/logos/金鹰纪实.png" group-title="卫星频道",金鹰纪实
+http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031203/1.m3u8
 #EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://river2718.github.io/logos/CHC动作电影.png" group-title="卫星频道;付费频道;央视频道",CHC动作电影
 http://[2409:8087:7008:20::2]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
 #EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://river2718.github.io/logos/CHC家庭影院.png" group-title="卫星频道;付费频道;央视频道",CHC家庭影院
 http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/index.m3u8
 #EXTINF:-1 tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="https://river2718.github.io/logos/CHC影迷电影.png" group-title="卫星频道;付费频道;央视频道",CHC影迷电影
 http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/index.m3u8
-#EXTINF:-1 tvg-id="茶" tvg-name="茶" tvg-logo="https://river2718.github.io/logos/茶.png" group-title="卫星频道;付费频道",茶
-http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031209/1.m3u8
+#EXTINF:-1 tvg-id="乐游" tvg-name="乐游" tvg-logo="https://river2718.github.io/logos/乐游.png" group-title="卫星频道;付费频道;上海频道",乐游
+http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031112/1.m3u8
+#EXTINF:-1 tvg-id="金色学堂" tvg-name="金色学堂" tvg-logo="https://river2718.github.io/logos/金色学堂.png" group-title="卫星频道;付费频道;上海频道",金色学堂
+http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000010000026105/1.m3u8
