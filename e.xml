@@ -14979,6 +14979,9 @@
 	<programme channel="咪咕综合体育" start="20250113030500 +0800" stop="20250113033000 +0800">
 		<title lang="zh">欧陆足球版图</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250113033000 +0800" stop="20250113061000 +0800">
+		<title lang="zh">足球世界-24/25赛季法甲 第17轮 巴黎圣日耳曼-圣埃蒂安 直播</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -37119,6 +37122,9 @@
 	<programme channel="纯享4K" start="20250113025100 +0800" stop="20250113032100 +0800">
 		<title lang="zh">寻古中国4K 古蜀记b7悠悠宝墩</title>
 	</programme>
+	<programme channel="纯享4K" start="20250113032100 +0800" stop="20250113033600 +0800">
+		<title lang="zh">艺术里的奥林匹克4K 汉代肖形印</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -45252,6 +45258,9 @@
 	<programme channel="newtv超级电视剧" start="20250113025000 +0800" stop="20250113032900 +0800">
 		<title lang="zh">38_初婚</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250113032900 +0800" stop="20250113041400 +0800">
+		<title lang="zh">11_我哥我嫂</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -45333,6 +45342,9 @@
 	<programme channel="newtv家庭剧场" start="20250113023900 +0800" stop="20250113032600 +0800">
 		<title lang="zh">23_小日子</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20250113032600 +0800" stop="20250113041600 +0800">
+		<title lang="zh">29_永夜星河</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -45387,6 +45399,9 @@
 	<programme channel="newtv怡伴健康" start="20250113022400 +0800" stop="20250113031000 +0800">
 		<title lang="zh">28_我的爱对你说</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250113031000 +0800" stop="20250113033700 +0800">
+		<title lang="zh">踏浪小径</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -45398,6 +45413,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20250113022500 +0800" stop="20250113031000 +0800">
 		<title lang="zh">15_独生子女的婆婆妈妈</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250113031000 +0800" stop="20250113035400 +0800">
+		<title lang="zh">16_独生子女的婆婆妈妈</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -45429,6 +45447,9 @@
 	<programme channel="newtv军事评论" start="20250113024900 +0800" stop="20250113030900 +0800">
 		<title lang="zh">桂林 只有真情敬亲人/武汉 一江春水向东流</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250113030900 +0800" stop="20250113033100 +0800">
+		<title lang="zh">万里河山 高原之上</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -45441,6 +45462,12 @@
 	<programme channel="newtv炫舞未来" start="20250113025500 +0800" stop="20250113030800 +0800">
 		<title lang="zh">相遇花开-饶子龙（完整版）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20250113030800 +0800" stop="20250113032400 +0800">
+		<title lang="zh">酒梦-孙爱迪</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250113032400 +0800" stop="20250113033500 +0800">
+		<title lang="zh">我爱祖国的蓝天-饶子龙（完整版）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -45449,6 +45476,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20250113022100 +0800" stop="20250113033000 +0800">
 		<title lang="zh">现在就出发第2季</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20250113033000 +0800" stop="20250113041600 +0800">
+		<title lang="zh">28_上海滩生死较量</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
@@ -45527,6 +45557,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250113013800 +0800" stop="20250113030800 +0800">
 		<title lang="zh">龙门镇客栈</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250113030800 +0800" stop="20250113043700 +0800">
+		<title lang="zh">八卦掌之亢龙有悔</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
