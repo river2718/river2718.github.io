@@ -271,3 +271,5 @@ https://rt-arb.rttv.com/dvr/rtarab/playlist_4500Kb.m3u8
 https://rt-ger.rttv.com/dvr/rtdeutsch/playlist_4500Kb.m3u8
 #EXTINF:-1 tvg-id="RT Documentary" tvg-name="RT_Documentary" tvg-logo="https://river2718.github.io/logos/RT_Documentary.png" group-title="国际频道",RT Documentary
 https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
+#EXTINF:-1 tvg-id="RT Doc-Русский" tvg-name="RT_Doc_Русский" tvg-logo="https://river2718.github.io/logos/RT_Doc_Русский.png" group-title="国际频道",RT Doc-Русский
+https://hls.rt.com/hls/rtdru360.m3u8
